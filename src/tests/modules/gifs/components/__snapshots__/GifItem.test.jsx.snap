@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Pruebas en GifItem component El snapshot deberia coincidir 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Ironman"
+      src="https://ironman.com/iron.jpg"
+    />
+    <p>
+      Ironman
+    </p>
+  </div>
+</div>
+`;
